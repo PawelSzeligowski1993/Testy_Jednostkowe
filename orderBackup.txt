@@ -1,0 +1,1 @@
+New orderOrder{meals=[Meal{price=7, name='Fries'}]}This is The End of the order
