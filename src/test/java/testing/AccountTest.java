@@ -39,7 +39,7 @@ public class AccountTest {
 
     //Testowanie null - czy dany obiekt przyjnuje nulla
     @Test
-    void newlyCreatedAccountShouldNotHavenDefaultDeliveryAddresSet(){
+    void newlyCreatedAccountShouldNotHavenDefaultDeliveryAddressSet(){
         //given
         Account account = new Account();
 
